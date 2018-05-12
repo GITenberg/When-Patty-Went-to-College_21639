@@ -1,0 +1,44 @@
+_repo: When-Patty-Went-to-College_21639
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, C. D. (Charles D.)
+    alias: Williams, Charles D.
+    birthdate: 1875
+    deathdate: 1954
+    gutenberg_agent_id: '24824'
+    url: http://www.gutenberg.org/2009/agents/24824
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webster, Jean
+    aliases:
+    - McKinney, Jean Webster
+    - Webster, Alice Jean Chandler
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '99'
+    url: http://www.gutenberg.org/2009/agents/99
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
+description: When Patty Went to College is a humorous novel about life in an all-girls'
+  college at the turn of the century. Patty is a happy, fun-loving prankster who defends
+  the weak and uses her clever brain only when it suits her. The end of the novel
+  sees her contemplating life outside of college, and wondering whether her misbehavior
+  will stand her in good stead for it.
+gutenberg_issued: '2007-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21639'
+  lccn: '03007657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College stories'
+- !lcc 'PS'
+- !lcsh 'College students -- Fiction'
+title: When Patty Went to College
+url: http://www.gutenberg.org/ebooks/21639
